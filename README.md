@@ -1,36 +1,46 @@
-### Hi there 👋
+<h1 align="center"> Hi, I’m Bugra</h1> 
+<p align="center" id="header">Front End Developer </p> 
 
-<!--
-**nuribugra/nuribugra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  ➤ I am Nuri Buğra Demir and I am a computer science student. <br>
+  ➤ I am interested in web development. 
+</div>
+
+---
+
+### 🛠️ Technologies & Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+<img src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" alt="sublime" width="35" height="35">
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="35" height="35" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/> -->
+</p>
+
+---
+
+### Linkedin
+
+<a href="https://www.linkedin.com/in/nuri-bu%C4%9Fra-demir-949aa4201/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="lnkdn" width="50"/></a>
 
 
-I am Nuri Buğra Demir and I am a computer science student. I am interested in web development. I am a front end developer, right now.
+<!-- ### 🔥 My Stats :
 
-[![Linkedin Badge](https://img.shields.io/badge/-nuribugra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuri-bu%C4%9Fra-demir-949aa4201/)](https://www.linkedin.com/in/nuri-bu%C4%9Fra-demir-949aa4201/)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nuribugra&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuribugra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-## ⚡ Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nuribugra&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuribugra&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nuribugra.nuribugra)
