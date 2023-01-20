@@ -10,8 +10,8 @@
 ---
 
 <div align="center">
-  ➤ I am Nuri Buğra Demir and I am a computer science student. <br>
-  ➤ I am interested in web development. 
+  ➤ I'm Nuri Buğra Demir and I'm a Computer Science student. <br>
+  ➤ I'm interested in web development. 
 </div>
 
 ---
