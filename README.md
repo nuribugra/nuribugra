@@ -19,11 +19,11 @@
 <!--<tr><td valign="top" width="50%">-->
 <div align="left">  
 <a href="https://html.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="50"/></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="39"/></a> 
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="margin-right: 5px;" alt="css3" width="50" height="50"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="35" height="39"/></a> 
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap" style="margin-right: 10px;" height="35" /></a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" style="margin-right: 10px;" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" style="margin-right: 5px;" height="35"/>
 </div>
 
 </td>
@@ -33,6 +33,7 @@
 <a href="https://linkedin.com/in/nuribugrademir" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://github.com/nuribugra"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 
 <p>
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
@@ -41,10 +42,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/> -->
 </p>
 
-<!-- ### 🔥 My Stats :
+### 🔥 My Stats :
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nuribugra&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nuribugra&theme=dark&mode=weekly)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuribugra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuribugra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
