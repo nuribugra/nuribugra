@@ -17,7 +17,7 @@
   <a href="https://html.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" height="36"/></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" style="margin-right: 5px;" alt="css3" height="36"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" height="36"></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://www.w3schools.com/whatis/img_bootstrap.png" alt="Bootstrap" height="36"/></a>
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" height="36"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="36"/></a>
 </p>
   
@@ -42,19 +42,4 @@
 <a href="https://twitter.com/nuribugrademir" target="_blank">
   <img src="https://camo.githubusercontent.com/13039975938e719b60e38191d050a182c1615f0e64a87494792c510ee111917a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465">
 </a>
-
-
-<p>
-<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="35" height="35" />        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/> -->
-</p>
-
-### 🔥 My Stats :
-
-![nuribugra's Stats](https://github-readme-stats.vercel.app/api?username=nuribugra&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-<br>
-![nuribugra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuribugra&theme=onedark&show_icons=true&hide_border=true&layout=compact) 
-
 
