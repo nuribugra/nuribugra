@@ -4,7 +4,7 @@
 ---
 
 <div align="left">
-  ➤ I'm currently learning Python, Javascript and Algorithms. <br>
+  ➤ I'm currently learning Javascript and Algorithms. <br>
   ➤ I'm interested in web development and design. <br>
   ➤ You can ask me anything about web development and website design.
 </div>
