@@ -1,18 +1,16 @@
 <h1 align="center"> Hi, I’m Bugra</h1> 
-<p align="center" id="header">Front End Developer </p> 
+<!--<p align="center" id="header">Front End Developer </p> -->
 
 ---
 
 <div align="left">
   ➤ I'm currently learning Javascript and Algorithms. <br>
-  ➤ I'm interested in web development and design. <br>
-  ➤ You can ask me anything about web development and website design.
 </div>
 
 ---
   
 ### 🛠️ Technologies & Tools
-
+<!--
 <p align="left">
   <a href="https://html.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" height="36"/></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" style="margin-right: 5px;" alt="css3" height="36"/></a>
@@ -27,7 +25,7 @@
     <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" style="margin-right: 5px;" height="35"/></a>
     <a href="https://www.adobe.com/tr/products/photoshop.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" height="38"> </a>
 </p>
-
+-->
 
 
 
