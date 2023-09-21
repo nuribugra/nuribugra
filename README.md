@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I’m Bugra</h1> 
-<p align="center" id="header">Software Developer</p>
+<p align="center" id="header">loading...</p>
 
 ---
 
