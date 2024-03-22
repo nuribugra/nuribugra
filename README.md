@@ -4,7 +4,7 @@
 ---
 
 <div align="left">
-  ➤ I'm currently learning Python and Algorithms. <br>
+  ➤ I'm currently learning back-end development. <br>
 </div>
 
 ---
