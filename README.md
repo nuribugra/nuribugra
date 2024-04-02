@@ -1,10 +1,11 @@
 <h1 align="center"> Hi, I’m Bugra</h1> 
-<p align="center" id="header">loading...</p>
+<p align="center" id="header">Sofware Developer</p>
 
 ---
 
 <div align="left">
   ➤ I'm currently learning back-end development. <br>
+  ➤ I passionate about design and clean code.
 </div>
 
 ---
