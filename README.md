@@ -5,7 +5,6 @@
 
 <div align="left">
   ➤ I'm currently learning back-end development. <br>
-  ➤ I passionate about design and clean code.
 </div>
 
 ---
